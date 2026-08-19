@@ -1,5 +1,7 @@
 # CosmeTech Audit
 
+🔗 **Démo live** : [cosmetech-audit-uqxfn2fucgqrrkcccdattw.streamlit.app](https://cosmetech-audit-uqxfn2fucgqrrkcccdattw.streamlit.app)
+
 ⚠️ **Projet personnel (PoC)**, démonstration de méthode. Données **réelles** : produits cosmétiques réels issus d'Open Beauty Facts (projet sœur d'Open Food Facts, licence ouverte ODbL). Aucune marque inventée, aucun ingrédient inventé. Liste réglementaire citée : Annexe III du règlement (CE) n°1223/2009 relatif aux produits cosmétiques (26 allergènes de parfum à déclaration obligatoire).
 
 Je voulais comprendre comment croiser un référentiel produit réel avec une exigence réglementaire précise, sans jamais transformer une simple présence d'ingrédient en un verdict de conformité que la donnée ne permet pas réellement d'établir, alors j'ai construit ce projet.
