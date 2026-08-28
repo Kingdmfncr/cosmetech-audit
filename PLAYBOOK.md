@@ -2,6 +2,7 @@
 
 > Guide opératoire en 4 volets (Définitions / Process / Documentation / Templates).
 > Rappel : projet personnel (PoC), données réelles (Open Beauty Facts, licence ODbL), voir [`README.md`](README.md).
+> **Dernière mise à jour** : 19/08/2026
 
 ---
 
